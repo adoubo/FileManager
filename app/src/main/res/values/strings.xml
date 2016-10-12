@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">文件管理</string>
+    <string name="button">sdcard目录</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+    <string name="root_content">/. 根目录</string>
+    <string name="upper_content">/.. 父目层</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>

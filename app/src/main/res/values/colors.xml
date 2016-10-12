@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#505E74</color>
+    <color name="colorPrimaryDark">#505E74</color>
+    <color name="colorAccent">#505E74</color>
+    <color name="titleGreen">#029789</color>
+    <color name="transparent">#00000000</color><!--透明色 -->
+    <color name="normal_gray">#dfdfdf</color><!--灰色 -->
+    <color name="pressed_gray">#c0c0c0</color>
+    <color name="dimgray">#696969</color><!--暗灰色 -->
+</resources>
